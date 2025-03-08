@@ -2,4 +2,4 @@
 This project features a compact 16-bit microprocessor. 
 
 
-![overview](./Toplvel.PNG)
+![overview](./TopLvel.PNG)
