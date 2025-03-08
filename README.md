@@ -44,3 +44,4 @@ If the instruction involves **two registers**, the control unit ensures:
 
 
 ![overview](./TopLvel.PNG)
+![overview](./CPUBlocDesign.PNG)
