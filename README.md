@@ -4,9 +4,11 @@
 
 This project presents the design of a compact **16-bit microprocessor**. The processor is built using fundamental components that work together to execute instructions efficiently. 
 
+![overview](./TopLvel.PNG)
+
 ![overview](./CPUBlocDesign.PNG)
 
-![overview](./TopLvel.PNG)
+
 
 ### Key Features:
 - **8 General-Purpose 16-bit Registers** for storing data
