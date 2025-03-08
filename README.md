@@ -4,6 +4,10 @@
 
 This project presents the design of a compact **16-bit microprocessor**. The processor is built using fundamental components that work together to execute instructions efficiently. 
 
+![overview](./CPUBlocDesign.PNG)
+
+![overview](./TopLvel.PNG)
+
 ### Key Features:
 - **8 General-Purpose 16-bit Registers** for storing data
 - **Arithmetic Logic Unit (ALU)** for performing computations
@@ -42,9 +46,7 @@ If the instruction involves **two registers**, the control unit ensures:
 - A **READY signal** synchronizes memory access to prevent timing issues.
 
 
-![overview](./CPUBlocDesign.PNG)
 
-![overview](./TopLvel.PNG)
 
 ### Acknowledgments
 This project is inspired by **"VHDL programming by examples"**, which provides a comprehensive explanation of CPU architecture and implementation. If you're interested in a deeper theoretical understanding, refer to the book for more details.
