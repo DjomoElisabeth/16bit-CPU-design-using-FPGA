@@ -42,6 +42,7 @@ If the instruction involves **two registers**, the control unit ensures:
 - A **READY signal** synchronizes memory access to prevent timing issues.
 
 
+![overview](./CPUBlocDesign.PNG)
 
 ![overview](./TopLvel.PNG)
-![overview](./CPUBlocDesign.PNG)
+
