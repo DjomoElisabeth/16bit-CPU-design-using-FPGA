@@ -46,3 +46,8 @@ If the instruction involves **two registers**, the control unit ensures:
 
 ![overview](./TopLvel.PNG)
 
+Acknowledgments
+This project is inspired by "VHDL programming by examples", which provides a comprehensive explanation of CPU architecture and implementation. If you're interested in a deeper theoretical understanding, refer to the book for more details.
+
+
+
